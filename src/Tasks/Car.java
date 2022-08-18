@@ -2,11 +2,11 @@ package Tasks;
 
 public class Car extends Vehicle{
 
-	String engine = "3.0 diesel";
+	private String engine = "3.0 diesel";
 	
-	int mileage = 350000;
+	private int mileage = 350000;
 	
-	int maxSpeed = 170;
+	private int maxSpeed = 170;
 	
 	
 	

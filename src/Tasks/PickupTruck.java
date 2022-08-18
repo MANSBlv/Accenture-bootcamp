@@ -18,9 +18,9 @@ public class PickupTruck extends Car {
 	}
 	
 	
-	byte gears = 6;
-	String color = "Black";
-	int speed = 90;
+	private byte gears = 6;
+	private String color = "Black";
+	private int speed = 90;
 	
 	
 	
